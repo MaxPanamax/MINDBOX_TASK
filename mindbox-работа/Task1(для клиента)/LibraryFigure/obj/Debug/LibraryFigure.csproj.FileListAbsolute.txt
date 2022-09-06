@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\bin\Debug\LibraryFigure.dll
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\bin\Debug\LibraryFigure.pdb
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\obj\Debug\LibraryFigure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\obj\Debug\LibraryFigure.dll
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\obj\Debug\LibraryFigure.pdb
+C:\Users\HP\Documents\GitHub\Test_task\Task1\LibraryFigure\obj\Debug\LibraryFigure.csproj.AssemblyReference.cache
